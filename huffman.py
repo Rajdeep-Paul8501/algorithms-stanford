@@ -1,9 +1,6 @@
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 12 13:16:21 2018
-@author: Abdallah-Elshamy
-"""
+
+
 from heapq import heappush as push, heappop as pop , heapify as make 
 import sys
 import resource
